@@ -4,7 +4,7 @@
   "author" : "RafatSh",
   
   "manifest_version": 3,
-  "description": "A simple color picker extension",
+  "description": "A simple color picker ",
   "permissions": [
     "scripting"
   ],
